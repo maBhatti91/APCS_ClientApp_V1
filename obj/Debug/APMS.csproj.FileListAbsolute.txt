@@ -1,0 +1,19 @@
+c:\users\maaz\documents\visual studio 2015\Projects\APMS\APMS\bin\Debug\APMS.exe.config
+c:\users\maaz\documents\visual studio 2015\Projects\APMS\APMS\bin\Debug\APMS.exe
+c:\users\maaz\documents\visual studio 2015\Projects\APMS\APMS\bin\Debug\APMS.pdb
+c:\users\maaz\documents\visual studio 2015\Projects\APMS\APMS\obj\Debug\APMS.Form1.resources
+c:\users\maaz\documents\visual studio 2015\Projects\APMS\APMS\obj\Debug\APMS.Properties.Resources.resources
+c:\users\maaz\documents\visual studio 2015\Projects\APMS\APMS\obj\Debug\APMS.csproj.GenerateResource.Cache
+c:\users\maaz\documents\visual studio 2015\Projects\APMS\APMS\obj\Debug\APMS.exe
+c:\users\maaz\documents\visual studio 2015\Projects\APMS\APMS\obj\Debug\APMS.pdb
+C:\Users\Maaz\Documents\Visual Studio 2015\Projects\APMS\APMS\obj\Debug\APMS.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\APMS\APMS\bin\Debug\APMS.exe.config
+C:\Users\HP\source\repos\APMS\APMS\bin\Debug\APMS.exe
+C:\Users\HP\source\repos\APMS\APMS\bin\Debug\APMS.pdb
+C:\Users\HP\source\repos\APMS\APMS\obj\Debug\APMS.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\APMS\APMS\obj\Debug\APMS.Form1.resources
+C:\Users\HP\source\repos\APMS\APMS\obj\Debug\APMS.Properties.Resources.resources
+C:\Users\HP\source\repos\APMS\APMS\obj\Debug\APMS.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\APMS\APMS\obj\Debug\APMS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\APMS\APMS\obj\Debug\APMS.exe
+C:\Users\HP\source\repos\APMS\APMS\obj\Debug\APMS.pdb
