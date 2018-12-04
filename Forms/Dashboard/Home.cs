@@ -23,7 +23,6 @@ namespace APMS_ClientApp.Forms.Dashboard
         {
             try
             {
-
                 Application.Exit(); 
             }
             catch (Exception ex)
