@@ -14,7 +14,7 @@ namespace APMS_ClientApp.Forms.Dashboard
         #region constructor
         public Home()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
         #endregion
 
