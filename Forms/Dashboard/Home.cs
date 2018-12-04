@@ -11,14 +11,26 @@ namespace APMS_ClientApp.Forms.Dashboard
 {
     public partial class Home : OfficeForm
     {
+        #region constructor
         public Home()
         {
             InitializeComponent();
         }
+        #endregion
 
+        #region form-events
         private void Home_FormClosed(object sender, FormClosedEventArgs e)
         {
-            Application.Exit();
+            try
+            {
+                Application.Exit();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error occurred.");
+            }
         }
+        #endregion
+
     }
 }
