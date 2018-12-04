@@ -22,3 +22,17 @@ C:\Users\HP\source\repos\APMS_ClientApp\APMS_ClientApp\bin\Debug\APMS_ClientApp.
 C:\Users\HP\source\repos\APMS_ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.exe
 C:\Users\HP\source\repos\APMS_ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.pdb
 C:\Users\HP\source\repos\APMS_ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.Forms.Login.resources
+E:\ClientApp\APMS_ClientApp\bin\Debug\APMS_ClientApp.exe.config
+E:\ClientApp\APMS_ClientApp\bin\Debug\APMS_ClientApp.exe
+E:\ClientApp\APMS_ClientApp\bin\Debug\APMS_ClientApp.pdb
+E:\ClientApp\APMS_ClientApp\bin\Debug\DevComponents.DotNetBar2.dll
+E:\ClientApp\APMS_ClientApp\bin\Debug\DevComponents.DotNetBar2.xml
+E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.csprojAssemblyReference.cache
+E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.Forms.Dashboard.Home.resources
+E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.Forms.Login.resources
+E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.Properties.Resources.resources
+E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.csproj.GenerateResource.cache
+E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.csproj.CoreCompileInputs.cache
+E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.csproj.CopyComplete
+E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.exe
+E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.pdb

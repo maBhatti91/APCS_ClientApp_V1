@@ -15,5 +15,10 @@ namespace APMS_ClientApp.Forms.Dashboard
         {
             InitializeComponent();
         }
+
+        private void Home_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
