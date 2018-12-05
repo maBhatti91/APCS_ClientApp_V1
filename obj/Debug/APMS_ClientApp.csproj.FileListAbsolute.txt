@@ -36,3 +36,18 @@ E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.csproj.CoreCompileInputs.ca
 E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.csproj.CopyComplete
 E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.exe
 E:\ClientApp\APMS_ClientApp\obj\Debug\APMS_ClientApp.pdb
+Z:\Old Stuff\Live\APCS_ClientApp_V1\bin\Debug\APMS_ClientApp.exe.config
+Z:\Old Stuff\Live\APCS_ClientApp_V1\bin\Debug\APMS_ClientApp.exe
+Z:\Old Stuff\Live\APCS_ClientApp_V1\bin\Debug\APMS_ClientApp.pdb
+Z:\Old Stuff\Live\APCS_ClientApp_V1\bin\Debug\DevComponents.DotNetBar2.dll
+Z:\Old Stuff\Live\APCS_ClientApp_V1\bin\Debug\DevComponents.DotNetBar2.xml
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.csprojAssemblyReference.cache
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.Forms.Login.resources
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.Properties.Resources.resources
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.csproj.GenerateResource.cache
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.csproj.CoreCompileInputs.cache
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.csproj.CopyComplete
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.exe
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.pdb
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.Forms.Dashboard.Main.resources
+Z:\Old Stuff\Live\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.Forms.Dashboard.Main2.resources

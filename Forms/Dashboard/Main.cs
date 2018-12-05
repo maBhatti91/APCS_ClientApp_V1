@@ -9,10 +9,10 @@ using DevComponents.DotNetBar;
 
 namespace APMS_ClientApp.Forms.Dashboard
 {
-    public partial class Home : OfficeForm
+    public partial class Main : OfficeForm
     {
         #region constructor
-        public Home()
+        public Main()
         {
             InitializeComponent(); 
         }

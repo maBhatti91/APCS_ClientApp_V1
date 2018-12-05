@@ -40,7 +40,8 @@ namespace APMS_ClientApp.Forms
         }
         private void btn_login_Click(object sender, EventArgs e)
         {
-            Home dashboardScreen = new Home();
+            //Main dashboardScreen = new Main();
+            Main2 dashboardScreen = new Main2();
             dashboardScreen.Show();
             this.Hide();
         }
