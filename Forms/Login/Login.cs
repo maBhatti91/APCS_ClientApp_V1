@@ -41,7 +41,7 @@ namespace APMS_ClientApp.Forms
         private void btn_login_Click(object sender, EventArgs e)
         {
             //Main dashboardScreen = new Main();
-            Main4 dashboardScreen = new Main4();
+            Main dashboardScreen = new Main();
             dashboardScreen.Show();
             this.Hide();
         }
