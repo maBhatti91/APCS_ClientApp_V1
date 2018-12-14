@@ -60,12 +60,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controls\ctl_CCTVCamControl.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Controls\ctl_CCTVCamControl.Designer.cs">
-      <DependentUpon>ctl_CCTVCamControl.cs</DependentUpon>
-    </Compile>
     <Compile Include="Controls\ctl_TranscationList.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -78,6 +72,7 @@
     <Compile Include="Controls\ctl_TileControl.Designer.cs">
       <DependentUpon>ctl_TileControl.cs</DependentUpon>
     </Compile>
+    <Compile Include="DataSource\DummyData.cs" />
     <Compile Include="Forms\Dashboard\Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,9 +87,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Controls\ctl_CCTVCamControl.resx">
-      <DependentUpon>ctl_CCTVCamControl.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Controls\ctl_TileControl.resx">
       <DependentUpon>ctl_TileControl.cs</DependentUpon>
     </EmbeddedResource>

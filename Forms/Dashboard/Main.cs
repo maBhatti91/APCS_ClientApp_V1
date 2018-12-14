@@ -16,27 +16,16 @@ namespace APMS_ClientApp.Forms.Dashboard
         public Main()
         {
             InitializeComponent();
-
-            //int scrrenHeight = Screen.PrimaryScreen.WorkingArea.Height;
-            //int scrrenWidth = Screen.PrimaryScreen.WorkingArea.Width;
-
-            //mtp_TilePanel.Left = (this.ClientSize.Width - mtp_TilePanel.Width) / 2;
-            //panel_tran_fotage.Left = (this.ClientSize.Width - panel_tran_fotage.Width) / 2;
-
-            //for (int i = 0; i < 15; i++)
-            //{
-            //    var dummyRow = new GridRow("001", "ACS001", "2018-12-01 08:30 AM", "2018-12-01 09:30 AM", "Edit");
-            //    this.grid_RecentTransactions.PrimaryGrid.Rows.Add(dummyRow);
-            //}
+            sideNav_Home.Focus();
         }
         #endregion
 
         #region form-events
-        private void Home_FormClosed(object sender, FormClosedEventArgs e)
+        private void Main_FormClosed(object sender, FormClosedEventArgs e)
         {
             try
             {
-                Application.Exit(); 
+                Application.Exit();
             }
             catch (Exception ex)
             {
@@ -45,5 +34,9 @@ namespace APMS_ClientApp.Forms.Dashboard
         }
         #endregion
 
+        private void ctl_TranscationList1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

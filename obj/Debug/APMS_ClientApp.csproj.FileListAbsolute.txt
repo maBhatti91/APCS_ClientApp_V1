@@ -74,7 +74,6 @@ Z:\Old Stuff\Live\Client App\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.csproj.C
 Z:\Old Stuff\Live\Client App\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.csproj.CopyComplete
 Z:\Old Stuff\Live\Client App\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.exe
 Z:\Old Stuff\Live\Client App\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.pdb
-Z:\Old Stuff\Live\Client App\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.Controls.ctl_CCTVCamControl.resources
 Z:\Old Stuff\Live\Client App\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.Controls.ctl_TranscationList.resources
 Z:\Old Stuff\Live\Client App\APCS_ClientApp_V1\obj\Debug\APMS_ClientApp.csprojAssemblyReference.cache
 Z:\Old Stuff\Live\Client App\APCS_ClientApp_V1\bin\Debug\DevExpress.Data.v18.2.dll
